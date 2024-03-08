@@ -1,1 +1,1 @@
-yoyo
+6 lab for ai course
